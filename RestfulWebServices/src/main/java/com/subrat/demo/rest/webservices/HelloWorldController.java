@@ -16,7 +16,7 @@ public class HelloWorldController {
 	}
 
 	@GetMapping(path = "hello-world-bean")
-	public HelloWorldBean getHelloWorldBean() {
+	public HelloWorldBean getHelloWorldBean() { 
 
 		/*
 		 * Initial error There was an unexpected error (type=Internal Server Error,
