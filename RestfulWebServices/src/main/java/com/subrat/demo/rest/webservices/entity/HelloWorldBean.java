@@ -1,4 +1,4 @@
-package com.subrat.demo.rest.webservices.beans;
+package com.subrat.demo.rest.webservices.entity;
 
 public class HelloWorldBean {
 

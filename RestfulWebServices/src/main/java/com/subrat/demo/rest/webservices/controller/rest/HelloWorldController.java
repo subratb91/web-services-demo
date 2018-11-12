@@ -1,10 +1,11 @@
-package com.subrat.demo.rest.webservices;
+package com.subrat.demo.rest.webservices.controller.rest;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.subrat.demo.rest.webservices.beans.HelloWorldBean;
+import com.subrat.demo.rest.webservices.entity.HelloWorldBean;
+
 
 @RestController
 public class HelloWorldController {
